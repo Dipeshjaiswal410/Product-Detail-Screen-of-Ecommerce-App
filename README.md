@@ -1,16 +1,38 @@
-# softbenz
+# Product Detail Screen of E-commerce App
 
-A new Flutter project.
+This project implements a product detail screen UI for an e-commerce application using Flutter. The screen provides users with detailed information about a selected product, including an image, name, price, description, and a "buy now" button.
+
+## Features
+
+- Display product image, name, and price.
+- Show detailed product descriptions.
+- "Buy Now" button that triggers further actions.
+- Modern and responsive UI design suitable for e-commerce apps.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow the instructions below.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Installation Guide](https://docs.flutter.dev/get-started/install)
+- Dart SDK: Should be included with Flutter installation
+- An IDE such as Android Studio, VS Code, or IntelliJ IDEA
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Dipeshjaiswal410/Product-Detail-Screen-of-Ecommerce-App.git
+   cd Product-Detail-Screen-of-Ecommerce-App
+
+2. **Install dependencies**:
+   flutter pub get
+
+3. Run the app:
+   flutter run
+
+
+
+
+
